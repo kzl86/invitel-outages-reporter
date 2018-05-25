@@ -1,0 +1,1 @@
+# invitel-outages-reporter
